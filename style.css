@@ -1,0 +1,113 @@
+#heading img{
+    width: 10%;
+    margin: 20px 20px;
+}
+
+#heading button{
+    float: right;
+    font-size: 20px;
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 20px 20px;
+}
+
+#background{
+    background: linear-gradient(to right,black, transparent),url(https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/netflixteaser.png);
+
+    width: 100%;
+    height: 100vh;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#content button{
+    font-size: 20px;
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#content h1{
+    color: white;
+    font-size: 50px;
+    font-family: Arial;
+}
+
+#content p{
+    color: white;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+#content{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+#second{
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    background: black;
+    justify-content: space-evenly;
+    color: white;
+    align-items: center;
+}
+
+
+#content2{
+    margin-left: 60px;
+}
+
+#content2 h1{
+    font-size: 70px;
+}
+
+#content2 p{
+    font-size: 35px;
+    max-width: 600px;
+}
+
+
+#third{
+    display: flex;
+    width: 100%;
+    height: 80vh;
+    background: black;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#content3 h1{
+    font-size: 70px;
+}
+
+#content3 p{
+    font-size: 35px;
+    max-width: 650000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
